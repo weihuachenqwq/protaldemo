@@ -1,0 +1,9 @@
+body {
+background-image:url(../images/dcc451da81cb39db83e6caa8dd160924ab18302d.png );
+    background-size:100% 100%;
+    background-attachment: fixed}
+h1 {background-color: #00ff00}
+h2 {background-color: peru}
+p {background-color: rgb(150,133,200)}
+
+p.no2 {background-color: gray; padding: 20px;}

@@ -1,0 +1,140 @@
+a{
+    text-decoration: none;
+}
+body{
+    margin: 0;
+}
+img{
+    width: 100%;
+    height: 100%;
+    /*opacity: 0.6*/
+}
+
+/*input{*/
+    /*outline: none;*/
+    /*opacity: 0.6;*/
+    /*border: none;*/
+    /*border-bottom: 2px gray solid;*/
+    /*height: 40px;*/
+    /*width: 100%;*/
+    /*margin-top: 30px;*/
+/*}*/
+/*1*/
+#dl{
+    width: 100%;
+    height: 30%;
+
+}
+#dl-f{
+
+    /*background-color: aqua;*/
+    opacity: 0.8;
+    width: 100%;
+    height: 20%;
+    display: flex;
+    position: relative;
+    /*justify-content: space-between;*/
+    /*align-items: center;*/
+}
+#dlf-1{
+    /*border: crimson 1px solid;*/
+    height: 50px;
+    width: 50px;
+}
+#dlf-2{
+    display: flex;
+    margin-left: 25%;
+    font-size: 50px;
+    font-weight: bold;
+    color:black;
+   bottom: 40%;
+}
+/*#in1{*/
+    /*margin: 0;*/
+    /*display: flex;*/
+    /*height: 15%;*/
+    /*width: 100%;*/
+/*}*/
+#in1 input{
+    outline: none;
+    opacity: 0.6;
+    border: none;
+    border-bottom: 2px gray solid;
+    height:60px;
+    width: 100%;
+    margin-top: 50px;
+
+}
+#in2 input{ outline: none;
+    opacity: 0.6;
+    border: none;
+    border-bottom: 2px gray solid;
+    height: 60px;
+    width: 100%;
+    /*margin-top: 30px;*/
+}
+#dlj{
+    margin-top: 45px;
+}
+#ksdl{
+    opacity: 0.6;
+    background-color: #00ff00;
+    border-radius: 15px;
+    width: 40%;
+    height: 40px;
+    margin-left: 30%;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#ksdl p{
+
+    font-size: 25px;
+    font-weight: bold;
+    color: red;
+}
+#wjmm{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 40%;
+
+}
+#wjmm a{
+    color: gold;
+}
+#dl-san{
+    /*border: #666666 1px solid;*/
+    height: 80px;
+    width: 300px;
+    display: flex;
+    justify-content:space-around;
+    margin: auto;
+    margin-top: 70px;
+}
+#dlqq{
+    display: flex;
+    height: 40px;
+    width: 40px;
+
+}
+#dlqq img{
+    height: 100%;
+    width: 100%;
+}
+#bbdl{
+    display: flex;
+    height: 40px;
+    width: 80px;
+}
+#bbdl img{
+    display: flex;
+    height: 40px;
+    width: 80px;
+}
+
+
+
+
+
+
