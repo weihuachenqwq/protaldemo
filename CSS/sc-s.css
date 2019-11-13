@@ -1,0 +1,158 @@
+a{
+    text-decoration: none;
+}
+body{
+    margin: 0;
+}
+#sc-s-t{
+    border-bottom: #F1F3F4 1px solid;
+    display: flex;
+    position: relative;
+    height: 70px;
+    width: 100%;
+}
+#st-1{
+    height: 100%;
+    display: flex;
+    width: 70%;
+    position: absolute;
+    left: 2%;
+    top: -3%;
+}
+#st-1 input{
+    width: 100%;
+    height: 50%;
+    border-radius: 20px;
+    border-color:rgba(0,0,0,0);
+    position: absolute;
+    display: flex;
+    top: 25%;
+    outline: none;
+    padding-left: 10%;
+    background-color:#F1F3F4 ;
+
+    color: black;
+}
+#st-2{
+    position: absolute;
+    display: flex;
+    top: 42%;
+    left: 3%;
+}
+#st-3{
+    position: absolute;
+    display: flex;
+    font-size: 16px;
+    color: #636C7B;
+    left: 85%;
+    top: 35%;
+}
+#sc-s-s{
+    height: 22px;
+    width: 100%;
+    /*border: #666666 1px solid;*/
+    position: absolute;
+    display: flex;
+    font-size: 15px;
+    color:#636C7B ;
+    top: 12%;
+}
+#sc-s-si{
+    width: 100%;
+    height: 60%;
+    position: absolute;
+    display: flex;
+    /*border: #666666 1px solid;*/
+    top: 14.5%;
+}
+#fate{
+    background-color:#F1F3F4 ;
+    color: #636C7B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border-radius: 10px;
+    height:7% ;
+    width: 15%;
+    top: 1%;
+}
+#gmzr{
+    background-color:#F1F3F4 ;
+    color: #636C7B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border-radius: 10px;
+    height:7% ;
+    width: 20%;
+    top: 1%;
+    left: 16%;
+}
+#jmqs{
+    background-color:#F1F3F4 ;
+    color: #636C7B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border-radius: 10px;
+    height:7% ;
+    width: 20%;
+    top: 1%;
+    left: 37%;
+}
+#mrfz{
+    background-color:#F1F3F4 ;
+    color: #636C7B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border-radius: 10px;
+    height:7% ;
+    width: 20%;
+    top: 1%;
+    left: 59%;
+}
+#gd{
+    background-color:#F1F3F4 ;
+    color: #636C7B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border-radius: 10px;
+    height:7% ;
+    width: 20%;
+    top: 1%;
+    left: 80%;
+}
+#ztsn{
+    background-color:#F1F3F4 ;
+    color: #636C7B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border-radius: 10px;
+    height:7% ;
+    width: 80%;
+    top: 10%;
+
+}
+#mori{
+    background-color:#F1F3F4 ;
+    color: #636C7B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border-radius: 10px;
+    height:7% ;
+    width: 100%;
+    top: 20%;
+}
+
+
