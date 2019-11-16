@@ -309,10 +309,53 @@ audio{
     width: 100%;
     top: 231%;
 }
-#xm-j img{
-    height: 100%;
+#k1{
+    position: absolute;
+    display: flex;
+    left: 3%;
+    height: 350px;
     width: 100%;
+    top: 247.5%;
+    color: #4DC1F0;
 }
-
-
-
+#d2{
+    position: absolute;
+    display: flex;
+    left: 19%;
+    height: 350px;
+    width: 100%;
+    top: 247.5%;
+    color: #4DC1F0
+}
+#l3{
+    position: absolute;
+    display: flex;
+    left: 35.9%;
+    height: 350px;
+    width: 100%;
+    top: 247.5%;
+    color: #4DC1F0
+}
+#hb{
+    position: absolute;
+    display: flex;
+    left: 2.5%;
+    height: 350px;
+    width: 100%;
+    top: 245%;
+}
+#xf{
+    position: absolute;
+    display: flex;
+    left: 2.5%;
+    height: 350px;
+    width: 100%;
+    top: 249.5%;
+    color: #A82F26;
+}
+#htt{
+    position: absolute;
+    display: flex;
+    left: 2.5%;
+    top:255% ;
+}

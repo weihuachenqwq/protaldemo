@@ -98,10 +98,22 @@ img{
     font-size: 20px;
     font-weight: bold;
     margin-left: 40%;
+    display: flex;
 
 }
 #wjmm a{
     color: gold;
+}
+#zcxzh{
+
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    position: absolute;
+    left: 38%;
+    color: #33FFCC;
 }
 #dl-san{
     /*border: #666666 1px solid;*/
