@@ -33,6 +33,10 @@ body{
     display: flex;
     width: 20%;
 }
+#sc-t3{
+    position: absolute;
+    left: 2%;
+}
 #ss-k{
     /*border: #dc2d39 1px solid;*/
     display: flex;
@@ -212,6 +216,7 @@ body{
     top: 17.5%;
     font-size: 14px;
 }
+
 #tj1{
     position: absolute;
     display: flex;
@@ -291,3 +296,67 @@ body{
     left: 37.7%;
     color: #A0D2F7;
 }
+#fl3{
+    border: #77ffff 1px solid;
+    position: absolute;
+    width: 100%;
+    height: 1.15%;
+    top: 38.5%;
+    font-size: 14px;
+}
+#rq1{
+    position: absolute;
+    display: flex;
+    width: 48%;
+    height: 19.5%;
+    top: 40%;
+    background-color:yellow ;
+}
+#rq1 img{
+    height: 90%;
+    display: flex;
+    position: absolute;
+    /*border: #dc2d39 1px solid;*/
+    width: 100%;
+}
+#rq1z{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 6%;
+    font-weight: bold;
+    font-size: 16px;
+    top: 92%;
+    left: 26.5%;
+    color: red;
+}
+#rq2{
+    position: absolute;
+    display: flex;
+    width: 48%;
+    height: 19.5%;
+    top: 40%;
+    left: 50%;
+    background-color:red ;
+}
+#rq2 img{
+    height: 90%;
+    display: flex;
+    position: absolute;
+    /*border: #dc2d39 1px solid;*/
+    width: 100%;
+}
+#rq2z{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 6%;
+    font-weight: bold;
+    font-size: 16px;
+    top: 92%;
+    left: 35%;
+    color: yellow;
+}
+
+
+
