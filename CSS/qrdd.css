@@ -20,9 +20,9 @@ input{
 #t-z{
     display: flex;
     position: absolute;
-    left: 15%;
+    left: 10%;
     font-size: 20px;
-    top: 6%;
+    top: 10%;
 }
 #q-s{
     display: flex;
